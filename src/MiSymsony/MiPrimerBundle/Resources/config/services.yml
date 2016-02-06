@@ -1,0 +1,7 @@
+parameters:
+#    mi_primer.example.class: MiSymsony\MiPrimerBundle\Example
+
+services:
+#    mi_primer.example:
+#        class: %mi_primer.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
